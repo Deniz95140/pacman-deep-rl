@@ -81,7 +81,3 @@ Il devient progressivement meilleur à éviter les fantômes et à prendre les b
 
 ---
 
-## ✍️ Auteur
-
-Projet réalisé par **Deniz** aka **DebugosaurusRex** 🦖  
-GitHub : [github.com/TON_PSEUDO](https://github.com/TON_PSEUDO)
