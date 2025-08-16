@@ -1,0 +1,8 @@
+gymnasium[atari]>=1.1,<1.3
+stable-baselines3>=2.7.0
+ale-py>=0.11.2
+numpy>=2.0
+# torch: installe selon ta machine (CPU par défaut) :
+#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+# ou pour GPU CUDA 12.1 :
+#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
